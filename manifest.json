@@ -1,0 +1,28 @@
+{
+  "id": "./",
+  "name": "آفاق للسفر | AFAQ TRAVEL",
+  "short_name": "AFAQ TRAVEL",
+  "description": "اكتشف وجهات جديدة وخطط لرحلتك مع آفاق للسفر.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#102f35",
+  "theme_color": "#102f35",
+  "icons": [
+    {
+      "src": "afaq-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "afaq-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
